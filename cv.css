@@ -184,7 +184,7 @@ nav ul li a:hover{
   width: 98%;
   margin: 0 auto;
   height: 20rem;
-  background-image: url('../Images/logo.jpg');
+  background-image: url('logo.jpg');
   background-size: cover;
   background-position: center;
   margin-top: 1rem;
